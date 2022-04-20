@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-32.xhtml">
-		<ignore>
-			<code>t-036</code>
-			<reason>Quotation marks seem to be paired correctly (if not nested too much).</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
