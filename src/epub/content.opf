@@ -31,7 +31,7 @@
 		<dc:subject id="subject-1">Fairy Tales</dc:subject>
 		<dc:subject id="subject-2">Puppets</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh85046925</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85109144</meta>
 		<meta property="se:subject">Children’s</meta>
