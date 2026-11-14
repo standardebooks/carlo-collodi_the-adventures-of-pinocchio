@@ -61,6 +61,16 @@
 		<link href="https://en.wikipedia.org/wiki/Gyula_Bencz%C3%BAr" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n2001155828.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Mark C. Orton</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Orton, Mark C.</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Melissa Er-Raqabi</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Er-Raqabi, Melissa</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Angel</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Angel, David</meta>
 		<link href="https://davidangel.net/" refines="#producer-1" rel="schema:url"/>
